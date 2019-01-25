@@ -1,0 +1,8 @@
+*sh
+*pyc
+/results
+.idea/
+/v2/run
+*nohup*
+
+
